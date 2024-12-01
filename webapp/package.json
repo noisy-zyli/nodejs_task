@@ -1,0 +1,23 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "connect-redis": "^3.4.2",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "ioredis": "^5.4.1",
+    "mongoose": "^8.8.3",
+    "nodemailer": "^6.9.16",
+    "pdfmake": "^0.2.15",
+    "redis": "^4.7.0",
+    "xlsx": "^0.18.5"
+  }
+}
